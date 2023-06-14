@@ -1,0 +1,12 @@
+body{
+    background-color:red ;
+}
+.navbar{
+    background-color: rgb(225, 137, 137);
+}
+.navbar-brand{
+    color:white;
+}
+.container-fluid>a{
+    color: red;
+}
